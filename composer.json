@@ -1,0 +1,16 @@
+{
+    "name": "cyril/testvilles",
+    "description": "detail des villes",
+    "autoload": {
+        "psr-4": {
+            "Cyril\\Testvilles\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyril",
+            "email": "cyril.rufin@gmail.com"
+        }
+    ],
+    "require": {}
+}
